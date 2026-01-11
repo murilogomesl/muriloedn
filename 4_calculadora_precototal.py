@@ -1,3 +1,5 @@
+#Calcular o preço total
+
 nome_produto = "Cadeira Infantil"
 preco_unitario = 12.40
 quantidade_produto = 3
