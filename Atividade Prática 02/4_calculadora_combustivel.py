@@ -1,3 +1,5 @@
+#Calculadora de Consumo de Combustível
+
 distancia_percorrida = 300
 combustivel_gasto = 25
 
